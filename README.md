@@ -20,7 +20,7 @@ Build TTCHAIN
 --------
 Different platforms have different build instructions:
 * [Windows](https://github.com/tongtongchain/TTCHAIN/blob/master/window_build.md)
-* [Linux](https://github.com/tongtongchain/TTCHAIN-2.0/blob/main/linux_installation_guide.md])
+* [Linux](https://github.com/tongtongchain/TTCHAIN-2.0/blob/main/linux_installation_guide.md)
 
 How to use RPC API
 --------------------
