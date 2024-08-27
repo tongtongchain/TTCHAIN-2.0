@@ -7,7 +7,8 @@ Tongtongchain is making efforts to build up a high performance discentralized en
 Replicas of the state machine are kept consistent using the Result Delegated Proof-of-Stake distributed consensus protocol.
 
 For more information about Tongtongchain, please read following document:
-* [Tongtongchain White Paper](https://tongtongcoin.io/datafile/TongTongCoin_WhitePaper_English_v2.2.1.pdf).
+* [Tongtongchain White Paper - KOR](https://ttcoin.io/datafile/TongTongCoin_WhitePaper_Korean_v3.0.pdf)
+* [Tongtongchain White Paper - ENG](https://ttcoin.io/datafile/TongTongCoin_WhitePaper_English_v3.0.pdf)
 
 ## Supported Operating Systems
 TTCHAIN currently supports the following operating systems:  
